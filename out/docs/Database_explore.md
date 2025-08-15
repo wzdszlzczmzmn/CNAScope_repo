@@ -50,7 +50,7 @@ The **Dataset Information** section provides a detailed breakdown of key metadat
 - Color-coded tags (e.g., orange for `TCGA-ACC`, green for `Genotyping Array, WGS`) enhance visual distinction and quick recognition of key information.
 
 
-## Samples List Panel
+### Samples List Panel
 
 The **Samples List** section on CNAScope provides a detailed tabular overview of individual samples within a dataset, such as the TCGA-ACC cohort, showcasing key clinical and demographic data. Columns include **Sample ID** (e.g., TCGA-OR-ABLL), **Disease Type** (e.g., Adenomas and Adenocarcinoma), **Primary Site** (e.g., adrenal gland), **Tumor Stage** and **Tumor Grade** (often not reported), **Ethnicity** (e.g., Hispanic or Latino, or not reported), **Race** (e.g., White), **Gender** (e.g., male or female), **Age** (e.g., 75 years), **PFS** (progression-free survival, often not reported), **Days to Death** (e.g., 1613 days), **PFS Status** (e.g., 0), and **Vital Status** (e.g., 1 for deceased). The list supports pagination (10 samples per page) with navigation controls, allowing users to filter and explore the **92 samples** in this dataset, facilitating in-depth analysis of patient-specific CNA profiles and clinical outcomes.
 <div align=center><img src="./DB_figures/samples.png" width="1000"></div>
