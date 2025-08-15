@@ -4,6 +4,6 @@
     - [Database introduction](./Database_introduction.md)
     - [Database exploration](./Database_explore.md)
     - [Database download](./Database_download.md)
-- Analysis
-  - [Analysis Introduction](./Analysis_introduction.md)
-  - [Analysis Explore](./Analysis_explore.md)
+- Workflow
+  - [Workflow Introduction](./Analysis_introduction.md)
+  - [Workflow Explore](./Analysis_explore.md)
